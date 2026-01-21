@@ -154,3 +154,61 @@ Cost & Profit Analysis
 Business Intelligence Reporting
 
 ---
+
+# Power BI Dashboard
+
+![Supply-Chain-Analysis](screenshots/sc1.png)
+
+## Executive Overview
+
+High-level KPIs: Total Revenue, Total Cost, Gross Profit
+
+Inventory turnover and sales performance
+
+Quick snapshot for decision-makers
+
+![Supply-Chain-Analysis](screenshots/sc2.png)
+
+## Inventory Health Analysis
+
+Inventory turnover distribution
+
+Identification of slow-moving and overstocked SKUs
+
+Stock levels vs demand analysis
+
+![Supply-Chain-Analysis](screenshots/sc3.png)
+
+## Supplier & Manufacturing Performance
+
+Supplier lead time comparison
+
+Defect rate analysis by supplier
+
+Manufacturing cost vs production volume
+
+Supplier efficiency and risk assessment
+
+![Supply-Chain-Analysis](screenshots/sc4.png)
+
+## Logistics & Transportation Analysis
+
+Shipping cost by transportation mode
+
+Carrier performance (shipping time vs cost)
+
+Route-wise logistics cost analysis
+
+Location-based shipping cost visualization
+
+![Supply-Chain-Analysis](screenshots/sc5.png)
+
+Revenue vs total cost comparison
+
+Profit margin analysis by supplier
+
+Cost structure breakdown
+
+Quality loss cost and profit at risk due to defects
+
+---
